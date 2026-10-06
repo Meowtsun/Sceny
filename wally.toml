@@ -1,0 +1,11 @@
+[package]
+name = "meowtsun/sceny"
+description = "A declarative dialogue scripting DSL for Roblox"
+version = "0.1.0"
+authors = ["meowtsun"]
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+
+[dependencies]
